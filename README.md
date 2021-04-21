@@ -4,6 +4,7 @@ Project for course at Wageningen University
 This project contains the work done for the Wageningen University course _Datascience for Smart Environments_.
 
 The goal of this project is to do an exploratory data analysis on tweet sentiments with the aim of answering the following questions:
+
 -
 -
 
