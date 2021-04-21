@@ -1,3 +1,5 @@
+# README 
+
 Project for course at Wageningen University 
 
 This project contains the work done for the Wageningen University course _Datascience for Smart Environments_.
