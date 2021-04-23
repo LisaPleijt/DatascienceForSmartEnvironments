@@ -16,6 +16,13 @@ It contains three main notebooks:
 2. Sentiment_Analysis.ipynb : Cleaning the harvested tweets and running a sentiment analysis on them
 3. Twitter_Project_Visualizations.ipynb : Visualizing and analysing the tweet sentiments  
 
+Also included are two csv files:
+- Tweets
+- Filtered tweets
+
+The Tweets file contains all tweets harvested in 1. Get_Historic_Tweets.ipynb, and acts as input for 2. Sentiment_Analysis.ipynb. 
+The Filtered tweets contains the tweets that have been processed in 2. Sentiment_Analysis.ipynb. It acts as input for 3. Twitter_Project_Visualizations.ipynb. 
+ 
 Each notebook contains a short introduction and a discussion on the decisions made and problems encoutered in the process of writing the code.
 
 This project contains additional work on Live Stream API's, that is interesting on itself but not connected to the main project. 
