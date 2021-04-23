@@ -21,7 +21,7 @@ Also included are two csv files:
 - Filtered tweets
 
 The Tweets file contains all tweets harvested in 1. Get_Historic_Tweets.ipynb, and acts as input for 2. Sentiment_Analysis.ipynb. 
-The Filtered tweets contains the tweets that have been processed in 2. Sentiment_Analysis.ipynb. It acts as input for 3. Twitter_Project_Visualizations.ipynb. 
+The Filtered tweets contains the tweets that have been processed in 2. Sentiment_Analysis.ipynb. It acts as input for 3. Visualisations_Analysis.ipynb. 
  
 Each notebook contains a short introduction and a discussion on the decisions made and problems encoutered in the process of writing the code.
 
