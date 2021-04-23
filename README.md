@@ -14,7 +14,7 @@ It contains three main notebooks:
 
 1. Get_Historic_Tweets.ipynb : Harvesting of tweets through twitters REST API
 2. Sentiment_Analysis.ipynb : Cleaning the harvested tweets and running a sentiment analysis on them
-3. Twitter_Project_Visualizations.ipynb : Visualizing and analysing the tweet sentiments  
+3. Visualisations_Analysis.ipynb : Visualizing and analysing the tweet sentiments  
 
 Also included are two csv files:
 - Tweets
