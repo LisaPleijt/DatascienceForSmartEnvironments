@@ -27,3 +27,5 @@ Each notebook contains a short introduction and a discussion on the decisions ma
 
 This project contains additional work on Live Stream API's, that is interesting on itself but not connected to the main project. 
 Info on this is found in the Live_API.ipynb
+
+Link to storymap: https://arcg.is/r08XW
